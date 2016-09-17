@@ -8,6 +8,8 @@
  
  > A curated list of awesome modo scripts, kits, resources and more. This list contains both paid and free items. 
  All paid items have a :heavy_dollar_sign: next to it's name.
+ 
+ 
 ## Contents
  - [Scripts/Kits](#scripts-and-kits) - Scripts and Kits
 
