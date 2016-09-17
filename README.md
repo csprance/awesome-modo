@@ -11,22 +11,21 @@
  
  
 ## Contents
- - [Scripts/Kits](#scripts-and-kits) - Scripts and Kits
+ - [Scripts and Kits](#scripts-and-kits) 
+ - [KitBash Libraries](#kitbash-libraries)
+ - [Python Scripting Resources](#python-scripting-resources)
 
 -
 ## Scripts And Kits
+- [Seneca Menard](http://www.indigosm.com/modoscripts.htm) - The holy grail of scripts. Every one of these scripts is awesome.
 - [Explosivo](http://csprance.github.io/Explosivo/) - A modo kit by @csprance to toggle morphs on and off for baking things wth Explode morph maps.
 - [Bling](http://www.mechanicalcolor.com/modo-kits/bling) - Bling is a MODO plugin for adding and removing “matcap” shaders with a customizable one-click menu. :heavy_dollar_sign:
-
+- [SymFix](https://github.com/csprance/symfix) - A modo kit by @csprance to fix the issues that arise from using the mirror instance tool in modo. 
+- [MatID](https://github.com/csprance/matid) - A modo kit by @csprance for quickly applying materials for baking ID maps 
  
 ## KitBash Libraries
-- 
+- [Mark Van Haitsma](https://gumroad.com/mvhaitsma) - Senior Hard Surface Artist with over 12 years experience in the videogame industry. Hardsurface kitbash kits.
 
 
 ## Python Scripting Resources
-- 
-
-
-## Scripts And Kits
-- 
-
+- [Python and Modo Links and Tips](http://www.etereaestudios.com/modoshare/tips_python_modo.html) - Compiled by Cristóbal Vila / etereaestudios.com
