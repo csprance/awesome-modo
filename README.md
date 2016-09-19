@@ -27,3 +27,5 @@
 
 ## Python Scripting Resources
 - [Python and Modo Links and Tips](http://www.etereaestudios.com/modoshare/tips_python_modo.html) - Compiled by Cristóbal Vila / etereaestudios.com
+- [James O'Hare - Gist](https://gist.github.com/Farfarer) - Gist of James O'Hare (Farfarer)
+- [Cristóbal Vila - Gist](https://gist.github.com/Eterea) - Gist of Cristóbal Vila (Eterea)
