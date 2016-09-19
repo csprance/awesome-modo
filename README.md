@@ -21,6 +21,7 @@
 - [Explosivo](http://csprance.github.io/Explosivo/) - A modo kit by @csprance to toggle morphs on and off for baking things wth Explode morph maps.
 - [Bling](http://www.mechanicalcolor.com/modo-kits/bling) - Bling is a MODO plugin for adding and removing “matcap” shaders with a customizable one-click menu. :heavy_dollar_sign:
 - [Ylaz Modo Scripts](http://community.thefoundry.co.uk/asset/scripts/?mode=Profile&name=ylaz) - Ylaz scripts make complicated tasks much faster. Lots of essential scripts.
+- [Peters Modo Tools](http://www.prespondek.com/modo-scripts/) - Lots of awesome scripts for creating collision meshes and fixing errors.
  
 ## KitBash Libraries
 - [Mark Van Haitsma](https://gumroad.com/mvhaitsma) - Senior Hard Surface Artist with over 12 years experience in the videogame industry. Hardsurface kitbash kits.
